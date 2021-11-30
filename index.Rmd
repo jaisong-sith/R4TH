@@ -1,15 +1,22 @@
 ---
-title: "R4TH"
-author: "Sith Jaisong"
+title: "R สำหรับคนไทย"
+author: "ทีมงาน"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  เวปไซท์ที่ให้ความรู้เกี่ยวกับโปรแกรม R เพื่อคนไทย
+link-citations: yes
+github-repo: jaisong-sith/R4TH
 ---
 
+# จุดประสงค์
 
-# Welcome {-}
-ลองไทย
-header
-ภาษาไทย
-ลองไทย
+bookdown นี้ เขียนเพื่อให้เผยแพร่และให้ความรู้เกี่ยวกับการเขียนโปรแกรมอาร์ ตั้งแต่พื้นฐาน (Begining level) จนถึงระดับปานกลาง (Intermedient)
 
-หนังสือเพื่อให้บุคคลทั่วไปที่สุดใจเกี่ยวกับโปรแกรม R ได้อ่าน สำหรับคนไทยทุกคน
+## วิธีการใช้
+
+กำลังเขียน ....

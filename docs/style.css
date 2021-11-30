@@ -1,5 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 
+/*------------- Body and header text---------------- */
+
+.book.font-family-1 {
+  font-family: 'K2D', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'K2D', serif;
+  color: #2f5275;
+}
+
+.title {
+  font-family: 'K2D', serif;
+  font-size: 3em !important;
+  color: #5699cc;
+}
+
+.subtitle {
+  font-family: 'K2D', serif;
+  color: #2c6793;
+}
+
+/*------------ TOC --------------*/
+.book .book-summary {
+  background: white;
+  border-right: none;
+}
+
+.summary{
+  font-family: 'K2D', sans-serif;
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
@@ -13,4 +45,26 @@ pre {
 }
 pre code {
   white-space: inherit;
+}
+
+
+/* The next two rules make the horizontal line go straight across in top navbar */
+
+.summary > li:first-child {
+    height: 50px;
+    padding-top: 10px;
+    border-bottom: 1px solid rgba(0,0,0,.07);
+}
+
+.book .book-summary ul.summary li.divider {
+    height: 0px;
+}
+/*____Code Chunks____*/
+
+.sourceCode pre {
+  margin: 0 !important; /* makes space above and below symmetrical*/
+}
+
+.sourceCode {
+  margin-bottom: 0.85em; /* adds same amount of margin as a <p> would */
 }

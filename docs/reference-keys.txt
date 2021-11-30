@@ -1,2 +1,8 @@
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
+จดประสงค
+วธการใช
+โหลดโปรแกรม-r
+r-เบองตน
+การทำงานกบ-r
+การทำงานกบ-r-ตอ
+ggplot2
+tidyverse

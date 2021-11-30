@@ -6,3 +6,5 @@ bookdown::gitbook:
         <li><a href="./">R4TH</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/jaisong-sith/REPO/edit/BRANCH/%s
+    download: ["pdf", "epub"]
