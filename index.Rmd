@@ -1,9 +1,15 @@
---- 
+---
 title: "R4TH"
 author: "Sith Jaisong"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
 
+# Welcome {-}
+ลองไทย
+header
+ภาษาไทย
+ลองไทย
+
+หนังสือเพื่อให้บุคคลทั่วไปที่สุดใจเกี่ยวกับโปรแกรม R ได้อ่าน สำหรับคนไทยทุกคน
