@@ -1,6 +1,4 @@
-.Rproj.user
 .Rhistory
 .RData
-.Ruserdata
-
--bookdown_files
+.Rproj.user
+*.Rproj

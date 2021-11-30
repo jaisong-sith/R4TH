@@ -1,6 +1,8 @@
 book_filename: "R4TH"
+output_dir: docs
 delete_merged_file: true
-output_dir: "docs"
+edit: https://github.com/jaisong-sith/R4TH/edit/master/%s
+view: https://github.com/jaisong-sith/R4TH/blob/master/%s
 language:
   ui:
     chapter_name: "Chapter "
