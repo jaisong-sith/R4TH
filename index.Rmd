@@ -21,3 +21,8 @@ github-repo: jaisong-sith/R4TH
 ## เหมาะสำหรับใคร
 
 สำหรับคนที่กำลังเรียนรู้ R ตั้งแต่พื้นฐาน (Begining level) จนถึงระดับปานกลาง (Intermedient)
+
+
+::: rmdtip
+test tip icon
+:::
